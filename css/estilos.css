@@ -3,6 +3,38 @@
   resize: none !important;
 }
 
+
+#MenuInicioBajo:hover{
+  cursor:  pointer;
+  color: #00f;
+  font-size: 20px;
+}
+
+#sobreMiInicioBajo:hover{
+  color: #00f;
+  font-size: 20px;
+}
+
+#habilidadInicioBajo:hover{
+  color: #00f;
+  font-size: 20px;
+}
+
+#portfolioInicioBajo:hover{
+  color: #00f;
+  font-size: 20px;
+}
+
+#contactoInicioBajo:hover{
+  color: #00f;
+  font-size: 20px;
+}
+
+#cv:hover{
+  color: #00f;
+  font-size: 20px;
+}
+
 .tecnologias_card{
   min-height: 150px;
   padding: 10px;
